@@ -18,3 +18,10 @@ To run the Redux Toolkit POC, follow these steps:
    ```bash
    git clone https://github.com/Shreyaghoshal24/redux-toolkit.git
    cd redux-toolkit-poc
+
+2. **Install the dependencies:**
+
+   To install the dependencies:
+
+   ```bash
+   npm i
