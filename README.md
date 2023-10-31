@@ -4,8 +4,8 @@ A simple React application that demonstrates how to use Redux Toolkit for state 
 
 ## Tech Stack
 
-**Client:** React, Redux Toolkit
-**Styling:** Custom CSS
+- **Client:** React, Redux Toolkit
+- **Styling:** Custom CSS
 
 ## Installation
 
@@ -16,5 +16,5 @@ To run the Redux Toolkit POC, follow these steps:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/redux-toolkit-poc.git
+   git clone https://github.com/Shreyaghoshal24/redux-toolkit.git
    cd redux-toolkit-poc
